@@ -27,7 +27,7 @@ The code calculates four key OFI features:
 
 ```python
 import pandas as pd
-from opi import *
+from ofi import *
 
 # Load data
 file_path = 'first_25000_rows.csv'
